@@ -1,0 +1,72 @@
+main
+267 27 -125/
+268 27 -129/
+271 27 -132/
+275 27 -133/
+279 27 -132/
+282 27 -129/
+283 27 -125/
+282 27 -121/
+279 27 -118/
+275 27 -117/
+271 27 -118/
+268 27 -120/
+
+
+
+
+
+
+#base
+300 26 128
+257 28 149
+259 28 131
+258 13 125
+212 12 113
+236 26 137
+207 29 118
+229 99 111
+210 29 87
+277 26 124
+239 24 107
+297 26 105
+317 29 91
+306 36 93
+341 27 78
+349 38 70
+307 41 55
+240 32 80
+205 31 69
+205 26 54
+220 18 77
+201 26 62
+240 26 54
+256 26 38
+203 26 17
+224 13 20
+233 27 5
+243 25 96
+333 30 95
+284 26 31
+284 45 15
+278 69 32
+268 27 1
+289 30 3
+268 24 30
+291 30 29
+322 26 26
+322 37 16
+321 31 64
+337 20 44
+328 24 67
+326 32 55
+314 33 70
+261 38 98
+{CanPlaceOn:["grass_block","dirt","stone","sand","podzol","deepslate_bricks","stone_bricks","quartz_block","tall_grass","short_grass"]}
+
+["grass_block","dirt","stone","sand","podzol","deepslate_bricks","stone_bricks","quartz_block","tall_grass","short_grass"]
+
+
+{CanPlaceOn:["grass_block","dirt","stone","sand","podzol","deepslate_bricks","stone_bricks","quartz_block","tall_grass","short_grass","oak_leaves","spruce_leaves","dark_oak_leaves","oak_leaves","birch_leaves","jungle_leaves","cherry_leaves","oak_log","spruce_log","dark_oak_log","oak_log","birch_log","jungle_log","cherry_log"]}
+"oak_leaves","spruce_leaves","dark_oak_leaves","oak_leaves","birch_leaves","jungle_leaves","cherry_leaves"
+"oak_log","spruce_log","dark_oak_log","oak_log","birch_log","jungle_log","cherry_log"
